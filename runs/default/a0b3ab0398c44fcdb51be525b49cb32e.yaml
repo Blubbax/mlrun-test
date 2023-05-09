@@ -1,0 +1,26 @@
+kind: run
+metadata:
+  name: mlrun-sklearn
+  uid: a0b3ab0398c44fcdb51be525b49cb32e
+  iteration: 0
+  project: default
+  labels:
+    host: DESKTOP-1903GVL
+  annotations: {}
+spec:
+  function: ''
+  log_level: info
+  parameters: {}
+  handler: null
+  outputs: []
+  output_path: ''
+  inputs: {}
+  hyperparams: {}
+  hyper_param_options: {}
+  data_stores: []
+status:
+  state: running
+  results: {}
+  start_time: '2023-04-02T18:50:43.768437+00:00'
+  last_update: '2023-04-02T18:50:43.779989+00:00'
+  artifacts: []
